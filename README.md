@@ -1,2 +1,2 @@
 # Python-Labs
-Some python programs I did as coursework.
+Some python programs I made as coursework.
